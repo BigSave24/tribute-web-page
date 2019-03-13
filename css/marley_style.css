@@ -1,0 +1,151 @@
+
+nav {display: block;}
+
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+	text-align: center;
+	min-width: 260px;
+	color: #333;
+	background-image: url('../img/flag-of-jam1200.png');
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+}
+
+h1 { font-size: 2em; font-weight: bold;}
+
+h2 { font-size: 1em; text-align: center;}
+
+h3 {
+	display: block;
+	font-size: 2em;
+	text-align: center;
+	font-weight: 200;
+}
+
+p {font-size: 16px;}
+
+div { display: block;}
+
+img {
+	max-width: 100%;
+	display:block;
+	height: auto;
+	margin: auto;
+  padding: 25px 0px 15px 0px;
+	opacity: 1;
+}
+
+ul {
+	display: block;
+	list-style-type: square;
+	max-width: 400px;
+	min-width: 60%;
+	margin: 0 auto;
+	text-align: left;
+}
+
+li {
+	color: #009c37;
+	font-size: 1.1em;
+	display: list-item;
+	margin: auto;
+	padding-bottom: 10px;
+}
+
+a {
+	text-decoration: none;
+}
+
+strong.year {
+	color: #fed200;
+}
+
+div.bg {
+	background-image: url('../img/flag-of-jam1200.png');
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+	border: 5px groove #264d00;
+	width: 90%;
+	margin: 0px auto;
+	opacity: 1;
+}
+
+#main {
+	background-color: #0d0d0d;
+	border-radius: 1%;
+	width: 98%;
+	max-width: 2000px;
+	margin: 20px auto;
+	padding: 15px;
+}
+
+#title {
+	display: block;
+	font-size: 2em;
+	color: #fed200;
+	margin: 20px 0px;
+	padding: 10px 0px;
+}
+
+#summary {
+	display: block;
+	color: #fed200;
+	font-size: 1.2em;
+	margin: 0px auto;
+}
+
+#img-div {
+	margin: 20px -5px -5px -5px;
+	width: 100%;
+	margin: 0px auto;
+}
+
+#image {opacity: 1;}
+
+#img-caption {
+	width: 49%;
+	font-size: 1.2em;
+	text-shadow: 2px 1px #fed200;
+	/*background-color: #0d0d0d;*/
+	color: #000000;
+	margin: 15px auto;
+	padding: 10px;
+}
+
+#headline {
+	color: #fed200;
+	font-size: 1.5em;
+	font-weight: bold;
+	margin: 0px auto;
+	padding-bottom: 20px;
+	text-align: center;
+}
+
+#tribute-info {
+	width: 35%;
+	min-width: 330px;
+	font-size: 16px;
+	margin: 0px auto;
+}
+
+#quoteBlock {
+	color: #fed200;
+	font-size: 1.2em;
+	font-weight: 400;
+	text-align: center;
+	margin: 0px auto;
+	padding-bottom: 1px;
+}
+
+#quote {
+	font-style: italic;
+}
+
+#moreInfo {
+	display: block;
+	color: #fed200;
+	width: 100%;
+	font-size: 1.12em;
+}
